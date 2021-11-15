@@ -2,7 +2,7 @@
 
 
 - 👩‍💻 Front-end in formation
-- 📚 Studying JavaScript and AngularJS
+- 📚 Studying
 - 📧 Contact: bianca.dev@hotmail.com
  
   <div>
