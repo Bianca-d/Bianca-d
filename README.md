@@ -1,9 +1,8 @@
 ### Oiee, seja bem-vindo(a)!
 
 
-- 👩‍💻 Front-end in formation
-- 📚 Studying
-- 📧 Contact: bianca.dev@hotmail.com
+- 👩‍💻 Front-end em formação
+- 📧 Contato: bianca.dev@hotmail.com
  
 <div style="display: inline_block" align="center"><br>
  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
